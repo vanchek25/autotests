@@ -103,7 +103,7 @@ public class Tests
     }
 
     [Test]
-    public void CommentTest() 
+    public void AddCommentTest() 
     {
         Authorize();
 
